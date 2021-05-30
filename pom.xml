@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.xkcoding</groupId>
-  <artifactId>fast_SpringBoot</artifactId>
+  <artifactId>spring-boot-demo</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <modules>
     <module>demo01-helloworld</module>
